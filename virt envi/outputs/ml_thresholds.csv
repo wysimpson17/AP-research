@@ -1,0 +1,4 @@
+ticker,model_type,probability_threshold
+SPY,logistic,0.5
+QQQ,logistic,0.5
+AAPL,logistic,0.5
