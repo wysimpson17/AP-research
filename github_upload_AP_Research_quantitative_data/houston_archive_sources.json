@@ -1,0 +1,42 @@
+[
+  {
+    "source_name": "Houston Chronicle Jobs",
+    "archive_url": "http://jobs.chron.com/",
+    "notes": "Houston job board with very early archive coverage."
+  },
+  {
+    "source_name": "Jobs @ Rice",
+    "archive_url": "http://jobs.rice.edu/",
+    "notes": "Houston university jobs site with long archive history."
+  },
+  {
+    "source_name": "Careers @ SLB",
+    "archive_url": "http://www.careers.slb.com/",
+    "notes": "Houston-linked energy careers site with older archive coverage."
+  },
+  {
+    "source_name": "Careers @ Sysco",
+    "archive_url": "http://careers.sysco.com/",
+    "notes": "Houston-headquartered employer with archive coverage from the 2010s onward."
+  },
+  {
+    "source_name": "Careers @ ConocoPhillips",
+    "archive_url": "http://careers.conocophillips.com/",
+    "notes": "Houston energy employer careers site."
+  },
+  {
+    "source_name": "Houston Methodist Careers",
+    "archive_url": "http://www.houstonmethodistcareers.org/",
+    "notes": "Houston healthcare careers site."
+  },
+  {
+    "source_name": "Built In Houston Jobs",
+    "archive_url": "https://builtin.com/jobs/houston",
+    "notes": "Houston tech jobs page with later-year archive coverage."
+  },
+  {
+    "source_name": "Axiom Space Careers",
+    "archive_url": "https://www.axiomspace.com/careers",
+    "notes": "Houston aerospace employer with recent archive coverage."
+  }
+]

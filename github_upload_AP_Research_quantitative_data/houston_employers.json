@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Axiom Space",
+    "source": "workday",
+    "careers_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site",
+    "list_url": "https://axiomspace.wd5.myworkdayjobs.com/wday/cxs/axiomspace/External_Career_Site/jobs",
+    "detail_base_url": "https://axiomspace.wd5.myworkdayjobs.com/wday/cxs/axiomspace/External_Career_Site"
+  },
+  {
+    "company_name": "PROS",
+    "source": "workday",
+    "careers_url": "https://pros.wd5.myworkdayjobs.com/PROS_Careers",
+    "list_url": "https://pros.wd5.myworkdayjobs.com/wday/cxs/pros/PROS_Careers/jobs",
+    "detail_base_url": "https://pros.wd5.myworkdayjobs.com/wday/cxs/pros/PROS_Careers"
+  },
+  {
+    "company_name": "Sysco",
+    "source": "workday",
+    "careers_url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers",
+    "list_url": "https://wd5.myworkdaysite.com/wday/cxs/sysco/syscocareers/jobs",
+    "detail_base_url": "https://wd5.myworkdaysite.com/wday/cxs/sysco/syscocareers"
+  },
+  {
+    "company_name": "ConocoPhillips",
+    "source": "workday",
+    "careers_url": "https://conocophillips.wd1.myworkdayjobs.com/External",
+    "list_url": "https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/conocophillips/External/jobs",
+    "detail_base_url": "https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/conocophillips/External"
+  }
+]
